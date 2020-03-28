@@ -1,4 +1,4 @@
-# liferay72-employee-rest
+# liferay72-ddm-custom-field
 ## Liferay Portal : Liferay 7.2 CE ++ |  Liferay 7.3 CE ++ | Liferay 7.2 DXP EE ++
 ### Installation
 * Clone current repo    
