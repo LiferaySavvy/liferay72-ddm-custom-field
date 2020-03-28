@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.liferay.portal:com.liferay.util.taglib:4.0.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.liferay.portal/com.liferay.util.taglib/4.0.8/2a0dd727ba01ec3f6e25352603b6b68120f8c799/com.liferay.util.taglib-4.0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.liferay.portal/com.liferay.util.taglib/4.0.8/9004907734c1280e3cf0fc21551ba361d15a4366/com.liferay.util.taglib-4.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

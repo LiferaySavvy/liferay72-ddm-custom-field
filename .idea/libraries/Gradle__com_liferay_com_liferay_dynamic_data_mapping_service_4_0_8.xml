@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.liferay:com.liferay.dynamic.data.mapping.service:4.0.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.liferay/com.liferay.dynamic.data.mapping.service/4.0.8/5e97e970a81bd823498006af298dad6db74db9c7/com.liferay.dynamic.data.mapping.service-4.0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.liferay/com.liferay.dynamic.data.mapping.service/4.0.8/af9f30fbabc93fee09f70ea795c726f572ba10c7/com.liferay.dynamic.data.mapping.service-4.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liferay72-ddm-custom-field.iml" filepath="$PROJECT_DIR$/.idea/modules/liferay72-ddm-custom-field.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liferay72-ddm-custom-field.main.iml" filepath="$PROJECT_DIR$/.idea/modules/liferay72-ddm-custom-field.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liferay72-ddm-custom-field.test.iml" filepath="$PROJECT_DIR$/.idea/modules/liferay72-ddm-custom-field.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liferay72-ddm-custom-field.testIntegration.iml" filepath="$PROJECT_DIR$/.idea/modules/liferay72-ddm-custom-field.testIntegration.iml" />
+    </modules>
+  </component>
+</project>
