@@ -5,8 +5,8 @@
 `git clone https://github.com/LiferaySavvy/liferay72-ddm-custom-field.git` 
 * Direct download link  
 `https://github.com/LiferaySavvy/liferay72-ddm-custom-field/archive/master.zip`     
-* Update Liferay Home path in build.gradle file. 
-* Locate to project or import into your IDE run following gradle tasks.  
+* Update Liferay Home path in `build.gradle` file. 
+* Locate to project or import into your IDE run following `gradle` tasks.  
 
 ````
 gradlew build
