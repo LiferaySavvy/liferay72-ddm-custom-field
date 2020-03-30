@@ -19,5 +19,5 @@ gradle deploy
 
 ````
 ### Documentation 
-* [link](link)
+* [Liferay 7/DXP Overriding Liferay Portal Default AUI/YUI Modules](http://www.liferaysavvy.com/2020/03/liferay-7dxp-overriding-liferay-portal.html)
 * [link](link)   
